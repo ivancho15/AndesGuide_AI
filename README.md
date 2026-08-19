@@ -59,7 +59,7 @@ El flujo de trabajo se divide en 3 módulos consecutivos donde la salida de cada
 
 * **Lenguaje:** Python 3.10+
 * **Entorno de Ejecución:** Google Colab
-* **Modelo LLM:** Google Gemini 2.0 Flash (`google-genai` SDK)
+* **Modelo LLM:** Google Gemini 3.6 Flash (`google-genai` SDK)
 * **Generación Visual:** NightCafe / Bing Image Creator / Leonardo AI
 * **Técnicas de Fast Prompting Aplicadas:**
 * **Role Prompting:** Asignación explícita de roles (*Guía UIAGM/WFR* y *Director de Arte*).
