@@ -79,9 +79,10 @@ AndesGuide_AI/
 ├── README.md                      # Presentación y documentación general
 ├── AndesGuide_AI_POC.ipynb         # Notebook ejecutable en Google Colab
 └── assets/
-    ├── logo_andesguide.png        # Logo de la portada
-    ├── pipeline_diagram.png       # Esquema del flujo modular
-    └── gear_infographic_output.png# Infografía gráfica generada por IA
+    ├── logo_andesguide.png         # Logo de la portada
+    ├── pipeline_diagram.png        # Esquema del flujo modular
+    ├── Preentrega1-IvanMarcano.pdf # Brief Inicial del Proyecto
+    └── gear_infographic_output.png # Infografía gráfica generada por IA
 
 ```
 
